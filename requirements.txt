@@ -1,0 +1,6 @@
+matplotlib
+Pillow
+numpy
+os
+tensorflow>=2.5.0
+tf_slim
